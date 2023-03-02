@@ -1,10 +1,10 @@
 #!/usr/bin/python3
-"""Island perimeter interview solution
+"""Island perimeter interview solution.
 """
 
 
 def island_perimeter(grid):
-    """Calculates the perimeter of an island described in a grid
+    """Calculates the perimeter of an island described in a grid.
     """
     perimeter = 0
     if type(grid) != list:
